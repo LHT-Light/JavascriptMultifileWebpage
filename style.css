@@ -1,0 +1,19 @@
+.infoBox {
+    border: 10px dotted black;
+}
+
+.linkMovieBox {
+    border: 5px solid green;
+}
+
+.linkHomeBox {
+    border: 5px solid blue;
+}
+
+.linkActivityBox {
+    border: 5px solid lightcoral;
+}
+
+.linkPlaceBox {
+    border: 5px solid darkorange;
+}
